@@ -4,7 +4,7 @@ hey, i’m @janiejestemja, how are you today?
 *Feel free to make yourself at home, i will share my tea or coffee with you if you like while you take a look around.*
 
 
-Have a nice day. 👋
+Have a nice day. 🌺
 
 
 
