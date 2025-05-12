@@ -1,5 +1,3 @@
-[Cipherleaf Demo](https://janiejestemja.eu.pythonanywhere.com/demo)
-
 Enjoy your stay. 🌺
 <!---
 janiejestemja/janiejestemja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
