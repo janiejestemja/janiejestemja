@@ -21,5 +21,3 @@ if [[ "$#" == 1 && "$1" == "-r" ]];then
     echo "Installing requrements.txt"
     pip install -r requirements.txt || echo "No requirements.txt found"
 fi
-
-exit 0
