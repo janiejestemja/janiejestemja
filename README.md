@@ -1,7 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=janiejestemja&count_private=true&theme=tokyonight&showicons=true)]
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janiejestemja&hide=javascript,css,scss,html,jupyter%20notebook&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janiejestemja&hide=javascript,css,scss,html,jupyter%20notebook&theme=tokyonight)
 
 
 Enjoy your stay. 🌺
